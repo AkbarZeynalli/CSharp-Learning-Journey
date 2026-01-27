@@ -12,3 +12,4 @@ D:\CSharp-Learning-Journey\Day1\Day1\obj\Debug\net10.0\refint\Day1.dll
 D:\CSharp-Learning-Journey\Day1\Day1\obj\Debug\net10.0\Day1.pdb
 D:\CSharp-Learning-Journey\Day1\Day1\obj\Debug\net10.0\Day1.genruntimeconfig.cache
 D:\CSharp-Learning-Journey\Day1\Day1\obj\Debug\net10.0\ref\Day1.dll
+D:\CSharp-Learning-Journey\Day1\Day1\obj\Debug\net10.0\Day1.sourcelink.json

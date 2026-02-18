@@ -1,0 +1,15 @@
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\bin\Debug\net10.0\SmartGym.exe
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\bin\Debug\net10.0\SmartGym.deps.json
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\bin\Debug\net10.0\SmartGym.runtimeconfig.json
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\bin\Debug\net10.0\SmartGym.dll
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\bin\Debug\net10.0\SmartGym.pdb
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\obj\Debug\net10.0\SmartGym.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\obj\Debug\net10.0\SmartGym.AssemblyInfoInputs.cache
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\obj\Debug\net10.0\SmartGym.AssemblyInfo.cs
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\obj\Debug\net10.0\SmartGym.csproj.CoreCompileInputs.cache
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\obj\Debug\net10.0\SmartGym.sourcelink.json
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\obj\Debug\net10.0\SmartGym.dll
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\obj\Debug\net10.0\refint\SmartGym.dll
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\obj\Debug\net10.0\SmartGym.pdb
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\obj\Debug\net10.0\SmartGym.genruntimeconfig.cache
+D:\CSharp-Learning-Journey\SmartGym\SmartGym\obj\Debug\net10.0\ref\SmartGym.dll

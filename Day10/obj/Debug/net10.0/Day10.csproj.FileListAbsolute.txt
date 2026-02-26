@@ -1,0 +1,15 @@
+D:\CSharp-Learning-Journey\Day10\bin\Debug\net10.0\Day10.exe
+D:\CSharp-Learning-Journey\Day10\bin\Debug\net10.0\Day10.deps.json
+D:\CSharp-Learning-Journey\Day10\bin\Debug\net10.0\Day10.runtimeconfig.json
+D:\CSharp-Learning-Journey\Day10\bin\Debug\net10.0\Day10.dll
+D:\CSharp-Learning-Journey\Day10\bin\Debug\net10.0\Day10.pdb
+D:\CSharp-Learning-Journey\Day10\obj\Debug\net10.0\Day10.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Learning-Journey\Day10\obj\Debug\net10.0\Day10.AssemblyInfoInputs.cache
+D:\CSharp-Learning-Journey\Day10\obj\Debug\net10.0\Day10.AssemblyInfo.cs
+D:\CSharp-Learning-Journey\Day10\obj\Debug\net10.0\Day10.csproj.CoreCompileInputs.cache
+D:\CSharp-Learning-Journey\Day10\obj\Debug\net10.0\Day10.sourcelink.json
+D:\CSharp-Learning-Journey\Day10\obj\Debug\net10.0\Day10.dll
+D:\CSharp-Learning-Journey\Day10\obj\Debug\net10.0\refint\Day10.dll
+D:\CSharp-Learning-Journey\Day10\obj\Debug\net10.0\Day10.pdb
+D:\CSharp-Learning-Journey\Day10\obj\Debug\net10.0\Day10.genruntimeconfig.cache
+D:\CSharp-Learning-Journey\Day10\obj\Debug\net10.0\ref\Day10.dll

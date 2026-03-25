@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp-Learning-Journey\\Day21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0755A2-4B7D-4C8A-344B-FD0CB5D3C190}|Day21.csproj|d:\\csharp-learning-journey\\day21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0755A2-4B7D-4C8A-344B-FD0CB5D3C190}|Day21.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp-Learning-Journey\\Day21\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSharp-Learning-Journey\\Day21\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwC0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T07:38:40.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
